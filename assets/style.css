@@ -15,7 +15,6 @@ h1 {
 
 p {
   margin: 0;
-
 }
 
 .app-message {
@@ -85,23 +84,25 @@ p {
 
 .circle {
   border-color: #bf5239;
+  top: 10px;
 }
 
 .circle-mask {
   border-color: #e85a71;
+  top: 10px;
 }
 
 .app-counter-box {
   font-family: 'Droid Sans Mono', monospace;
   font-size: 250%;
   position: relative;
-  top: 50px;
+  bottom: 140px;
   color: #d8e9ef;
 }
 
 button {
   position: relative;
-  top: 50px;
+  bottom: 120px;
   font-size: 80%;
   text-transform: uppercase;
   letter-spacing: 1px;
